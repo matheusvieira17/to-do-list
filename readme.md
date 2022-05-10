@@ -1,4 +1,4 @@
-#Lista de tarefas (to-do-list)
+# Lista de tarefas (to-do-list)
 
 Alguns conhecimentos usados nesse projeto
 - Tags semânticas do HTML5
